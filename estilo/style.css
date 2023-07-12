@@ -202,3 +202,8 @@ footer a:hover{
 a.externe::after {
       content: '\00a0\1F517';
 }
+
+.link-github {
+      text-decoration: none;
+      color: black;
+}
